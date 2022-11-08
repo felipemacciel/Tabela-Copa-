@@ -26,11 +26,11 @@ document.querySelector('#cards').innerHTML =
      + 
     createGame('portugal', '16:00', 'uruguai'))
     +
-    createCard('28/11','segunda', createGame('Switzerland', '13:00', 'Brazil') 
+    createCard('28/11','segunda', createGame('switzerland', '13:00', 'brazil') 
     + 
     createGame('portugal', '16:00', 'uruguai'))
     +
-    createCard('02/12','sexta', createGame('brazil', '16:00', 'Cameroon') 
+    createCard('02/12','sexta', createGame('brazil', '16:00', 'cameroon') 
     + 
     createGame('portugal', '16:00', 'uruguai'))
 
